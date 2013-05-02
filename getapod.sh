@@ -1,4 +1,4 @@
-cd S#!/bin/bash
+#!/bin/bash
 # Simple Script to download and load the NASA APOD photo as the wallpaper
 # Load as cronjob with 0 10 * * * DISPLAY=:0.0 /home/john/scripts/getapod.sh (note the DISPLAY=:0.0)
 
